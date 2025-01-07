@@ -232,6 +232,13 @@ input::-webkit-inner-spin-button {
     @apply -top-4;
   }
 
+  .School p {
+    @apply pb-5;
+  }
+  .School img {
+    @apply w-[250px] h-[300px];
+  }
+
 
 }
 

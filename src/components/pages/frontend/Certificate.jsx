@@ -3,7 +3,7 @@ import React from 'react'
 const Certificate = () => {
   return (
     <div>
-      <div className="py-10 bg-gray-800 text-[20px] ">
+      <div className="py-10 bg-gray-800 text-[20px]  ">
         <div className="container grid grid-cols-2 gap-5">
           <div className="flex flex-col gap-5">
             <div className="text-[30px] font-bold text-white">
